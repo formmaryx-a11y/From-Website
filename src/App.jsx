@@ -1,7 +1,7 @@
 
 import { useEffect, useRef, useState } from "react";
 
-import About from "./About";
+import About from "./about";
 
 import DigitalExperiences, {
   ProjectSummary,
